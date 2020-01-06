@@ -1,0 +1,1 @@
+{aa:2}, [{name:warehouse36,inventory:{a:3, aa:3, aaa: 3}}]
